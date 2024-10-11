@@ -1,2 +1,2 @@
 # TagMover
-a obsidian plagin to move tags to frontmatter
+a obsidian plagin to move tags to the frontmatter
